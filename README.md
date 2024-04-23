@@ -1,4 +1,11 @@
-### Hi there 👋
+  Hi there, Myself Dhruv Patel👋
+
+  I’m currentlly a Cyber Security Student and CTF Player 
+
+ [![LinkedIn: Dhruv Patel](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/dhruv-patel07b163214/)] 
+ [![Twitter](https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter)](https://x.com/Dhruv0x01/)
+
+
 
 <!--
 **Hack3r1234/Hack3r1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

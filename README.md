@@ -2,9 +2,8 @@
 
  I’m currentlly a Cyber Security Student and a CTF Player 
 
- [![LinkedIn: Dhruv Patel](https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin)](http://linkedin.com/in/dhruv-patel07b163214)
- [![Twitter: Dhruv0x01](https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter)](https://x.com/Dhruv0x01/)
-
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/DhruvPatel?style=social)](https://x.com/Dhruv0x01/)
+[![Twitter: Dhruv0x01](https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter)](http://linkedin.com/in/dhruv-patel07b163214)
 
 
 <!--

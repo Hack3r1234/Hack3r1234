@@ -1,9 +1,10 @@
-  Hi there, Myself Dhruv Patel👋
+  Hi there, Myself Dhruv Patel!👋
 
- I’m currentlly a Cyber Security Student and a CTF Player 
+ I’m currentlly a Cyber Security Student and CTF Player 
 
 [![Twitter: Dhruv Patel](https://img.shields.io/twitter/follow/DhruvPatel?style=social)](https://x.com/Dhruv0x01/)
-[![Linkedin: Dhruv](https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter)](http://linkedin.com/in/dhruv-patel07b163214)
+[![Linkedin: Dhruv Patel](https://img.shields.io/badge/-dhruvpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-patel07b163214)](https://www.linkedin.com/in/dhruv-patel07b163214)
+[![Blogspot](https://img.shields.io/badge/-Dhruv%20Patel-red?style=flat-square&logo=blogger&logoColor=black)](https://spywar364.blogspot.com/)
 
 
 <!--
